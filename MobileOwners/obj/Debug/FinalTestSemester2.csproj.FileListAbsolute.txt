@@ -1,7 +1,0 @@
-C:\Users\panel\source\repos\FinalTestSemester2\FinalTestSemester2\bin\Debug\FinalTestSemester2.exe.config
-C:\Users\panel\source\repos\FinalTestSemester2\FinalTestSemester2\bin\Debug\FinalTestSemester2.exe
-C:\Users\panel\source\repos\FinalTestSemester2\FinalTestSemester2\bin\Debug\FinalTestSemester2.pdb
-C:\Users\panel\source\repos\FinalTestSemester2\FinalTestSemester2\obj\Debug\FinalTestSemester2.csprojAssemblyReference.cache
-C:\Users\panel\source\repos\FinalTestSemester2\FinalTestSemester2\obj\Debug\FinalTestSemester2.csproj.CoreCompileInputs.cache
-C:\Users\panel\source\repos\FinalTestSemester2\FinalTestSemester2\obj\Debug\FinalTestSemester2.exe
-C:\Users\panel\source\repos\FinalTestSemester2\FinalTestSemester2\obj\Debug\FinalTestSemester2.pdb
